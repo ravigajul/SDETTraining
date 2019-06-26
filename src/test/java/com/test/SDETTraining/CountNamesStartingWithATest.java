@@ -20,7 +20,7 @@ public class CountNamesStartingWithATest {
 		}
 		System.out.println(count);
 		
-		//optimal way to count in one line using stream and lambda expression.
+		//optimal way to count in one line using stream and lambda expression. Check LambdaExpressions.java
 		
 	}
 	
